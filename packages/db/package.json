@@ -15,7 +15,7 @@
     "typecheck": "pnpm -w exec tsc -p packages/db/tsconfig.json --noEmit"
   },
   "dependencies": {
-    "drizzle-orm": "^0.45.1",
+    "drizzle-orm": "^0.45.3",
     "zod": "^3.0.0"
   },
   "devDependencies": {
